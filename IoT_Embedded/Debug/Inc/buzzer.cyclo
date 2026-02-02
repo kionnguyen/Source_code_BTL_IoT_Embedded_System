@@ -1,0 +1,5 @@
+../Inc/buzzer.c:9:6:PB_Init	1
+../Inc/buzzer.c:27:6:Buzzer_On	1
+../Inc/buzzer.c:32:6:Buzzer_Off	1
+../Inc/buzzer.c:37:6:Buzzer_Toggle	1
+../Inc/buzzer.c:42:5:Buzzer_Read_Pin	2

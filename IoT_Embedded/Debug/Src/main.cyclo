@@ -1,0 +1,5 @@
+../Src/main.c:23:20:USART1_ClearErrors	1
+../Src/main.c:31:13:HC05_ApplyCommand	6
+../Src/main.c:52:6:HC05_PollReceiveCommand	8
+../Src/main.c:81:6:delay_ms_with_poll	2
+../Src/main.c:90:5:main	7

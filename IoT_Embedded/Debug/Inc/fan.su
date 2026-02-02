@@ -1,0 +1,4 @@
+../Inc/fan.c:10:6:PB4_Init_Output	4	static
+../Inc/fan.c:18:6:Fan_On	4	static
+../Inc/fan.c:23:6:Fan_Off	4	static
+../Inc/fan.c:28:5:Fan_Read_Pin	4	static

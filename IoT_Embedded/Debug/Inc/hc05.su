@@ -1,0 +1,6 @@
+../Inc/hc05.c:11:6:USART1_Init	4	static
+../Inc/hc05.c:32:6:USART1_SendChar	16	static
+../Inc/hc05.c:38:6:USART1_SendString	16	static
+../Inc/hc05.c:44:6:USART1_ReadChar	4	static
+../Inc/hc05.c:50:5:USART1_DataAvailable	4	static
+../Inc/hc05.c:55:6:USART1_SendNumber	32	static

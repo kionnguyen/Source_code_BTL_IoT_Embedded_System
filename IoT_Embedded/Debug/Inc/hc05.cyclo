@@ -1,0 +1,6 @@
+../Inc/hc05.c:11:6:USART1_Init	1
+../Inc/hc05.c:32:6:USART1_SendChar	2
+../Inc/hc05.c:38:6:USART1_SendString	2
+../Inc/hc05.c:44:6:USART1_ReadChar	2
+../Inc/hc05.c:50:5:USART1_DataAvailable	1
+../Inc/hc05.c:55:6:USART1_SendNumber	4
